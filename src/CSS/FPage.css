@@ -1,0 +1,22 @@
+/* Start Home */
+.H-Page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.corrupted-image {
+  object-fit: cover;
+}
+
+.links a {
+  text-decoration: none;
+  color: #07beac;
+  font-size: 37px;
+  font-weight: 600;
+}
+
+/* End Home */

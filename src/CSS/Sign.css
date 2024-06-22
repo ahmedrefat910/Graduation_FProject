@@ -1,0 +1,131 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+    width: 600px;
+    background-color: #ffff;
+    padding-bottom: 30px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 9px;
+    margin-top: 30px;
+}
+
+.Text {
+    color: #07beac;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.underline {
+    width: 60px;
+    height: 4px;
+    background-color: #07beac;
+    border-radius: 8px;
+}
+
+.inputs {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 340px;
+    height: 50px;
+    background-color: #7CBCBC33;
+    border-radius: 6px;
+}
+
+.input img {
+    margin: 0px 20px;
+    background: #7CBCBC33;
+}
+
+.input input {
+    height: 40px;
+    width: 350px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #797979;
+    font-size: 19px;
+}
+
+.forgot-password2 {
+    text-align: center;
+    margin-top: 35px;
+    color: #656867;
+    font-size: 12px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.forgot-password2 span {
+    color: #07beac;
+}
+
+.forgot-password {
+    text-align: center;
+    margin-top: 5px;
+    color: #656867;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.forgot-password span {
+    color: #07beac;
+    cursor: pointer;
+}
+
+.submit-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px auto;
+}
+
+.submit-register, .submit-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 38px;
+    color: #ffffff;
+    background-color: #03A1A4;
+    border: 2px solid #03A1A4;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.gray {
+    background: #f7f7f7;
+    color: #03A1A4;
+}
+
+/* Verification section, if needed */
+.V-Content {
+    background-color: #f7f7f7;
+    width: 348px;
+    height: 180px;
+    border: none;
+    text-align: center;
+    border-radius: 14px;
+    padding: 40px;
+    margin: 14px;
+    cursor: pointer;
+    opacity: .8;
+}

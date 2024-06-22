@@ -1,0 +1,33 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #03A1A4;
+    color: #fffdfd;
+    padding: 10px 20px;
+}
+
+.navbar h6 {
+    position: relative;
+    right: 91.5%;
+    font-weight: 600;
+    padding-top: 3px;
+    font-size: 23px;
+}
+
+.navbar img {
+    position: relative;
+    right: -25px;
+    float: left;
+    top: 0px;
+    opacity: 0.9;
+}
+
+.ha {
+    text-decoration: none;
+    color: #fffdfd;
+    position: relative;
+    right: 86%;
+}

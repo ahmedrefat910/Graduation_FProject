@@ -1,0 +1,31 @@
+
+
+.examination-overlay-content h1 {
+    text-align: center;
+    padding-bottom: 50px;
+    top: -15px;
+    position: relative;
+}
+
+.examination-overlay-content p {
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+
+.exit-butt1 {
+    position: relative;
+    width: 100%;
+    border: none;
+    background: transparent;
+    right: 30%;
+    top : 10%
+}
+
+.exit-butt2 {
+    position: relative;
+    width: 100%;
+    border: none;
+    background: transparent;
+    left: 30%;
+}

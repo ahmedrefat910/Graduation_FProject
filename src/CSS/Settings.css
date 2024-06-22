@@ -1,0 +1,440 @@
+
+.Side {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 22%;
+    top: 60px;
+    height: 100%;
+    background-color: white;
+    color: #EDEDED;
+    
+
+}
+
+.Side p:hover {
+    color: #35b7b9;
+}
+
+.Me {
+    padding-left: 22px;
+    margin-top: 15px;
+    padding-top: 2px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.Side p {
+    padding-left: 90PX;
+    position: relative;
+    bottom: 36px;
+    color: black;
+}
+
+.Side .underline {
+    padding-left: 250px;
+    position: relative;
+    top: -15px;
+    width: 50px;
+    height: 2px;
+    background-color: #EDEDED;
+    border-radius: 6px;
+}
+
+/* ############################################################ */
+
+.Ex .box {
+    width: 408px;
+    height: 349px;
+    bottom: 250px;
+    left: 745px;
+    border: 1px solid #03A1A4;
+    background-color: #ffffffff;
+
+}
+
+.Ex .box .img1 {
+    position: relative;
+    left: 85px;
+    bottom: 115px;
+}
+
+.Ex .box .img2 {
+    position: relative;
+    bottom: 70px;
+    left: 50px;
+}
+
+/* ############################################################ */
+.Notification {
+    width: 50%;
+}
+
+.Notification p {
+    position: relative;
+    top: -25px;
+    left: -25px;
+}
+
+.Notification img {
+    padding-left: 18px;
+    cursor: pointer;
+    top: 9px;
+    left: 12px;
+}
+
+.notification {
+    text-decoration: none;
+
+}
+
+.Not h5 {
+    color: black;
+    position: relative;
+    left: 695px;
+    bottom: 440px;
+}
+
+.Not .box {
+    width: 380px;
+    height: 520px;
+    top: -430px;
+    left: 688px;
+    border: 1px solid #EDEDED;
+    background-color: #ffffffff;
+}
+
+.Not .underline {
+    padding-left: 250px;
+    position: relative;
+    top: 25px;
+    width: 200px;
+    height: 2px;
+    background-color: #EDEDED;
+    border-radius: 5px;
+}
+
+.Not p {
+    top: -5px;
+    right: 82px;
+}
+
+.Not p:hover {
+    color: black;
+}
+
+.Not .form-check-input {
+    position: relative;
+    left: 218px;
+    bottom: 42px;
+
+}
+
+/* ############################################################ */
+
+.Security {
+    width: 50%;
+}
+
+.Security p {
+    position: relative;
+    top: -25px;
+    left: -25px;
+}
+
+.Security img {
+    padding-left: 18px;
+    cursor: pointer;
+    top: 9px;
+    left: 12px;
+}
+
+.security {
+    text-decoration: none;
+}
+
+.Sec h5 {
+    color: black;
+    position: relative;
+    left: 695px;
+    bottom: 440px;
+}
+
+.Sec .box {
+    width: 358px;
+    height: 320px;
+    top: -430px;
+    left: 688px;
+    border: 1px solid #EDEDED;
+    background-color: #ffffffff;
+}
+
+.Sec .underline {
+    padding-left: 250px;
+    position: relative;
+    top: 25px;
+    width: 200px;
+    height: 2px;
+    background-color: #EDEDED;
+    border-radius: 5px;
+}
+
+.Sec p {
+    top: -5px;
+    right: 82px;
+}
+
+.Sec p:hover {
+    color: black;
+}
+
+.Sec .form-check-input {
+    position: relative;
+    left: 218px;
+    bottom: 42px;
+
+}
+
+/* ############################################################ */
+
+.Language {
+    width: 50%;
+}
+
+.Language p {
+    position: relative;
+    top: -25px;
+    left: -25px;
+}
+
+.Language img {
+    padding-left: 18px;
+    cursor: pointer;
+    top: 9px;
+    left: 12px;
+}
+
+.language {
+    text-decoration: none;
+}
+
+.Lan h5 {
+    color: black;
+    position: relative;
+    left: 695px;
+    bottom: 440px;
+}
+
+.Lan .box {
+    width: 358px;
+    height: 400px;
+    top: -430px;
+    left: 688px;
+    border: 1px solid #EDEDED;
+    background-color: #ffffffff;
+
+}
+
+.Lan .underline {
+    padding-left: 250px;
+    position: relative;
+    top: 5px;
+    width: 200px;
+    height: 2px;
+    background-color: #EDEDED;
+    border-radius: 5px;
+}
+
+.Lan p {
+    bottom: 22px;
+    right: 82px;
+}
+
+.Lan p:hover {
+    color: black;
+}
+
+.Lan .form-check-input {
+    position: relative;
+    left: 218px;
+    bottom: 62px;
+
+}
+
+/* ############################################################ */
+
+.Info {
+    width: 50%;
+}
+
+.Info p {
+    position: relative;
+    top: -25px;
+    left: -25px;
+}
+
+.Info img {
+    padding-left: 18px;
+    cursor: pointer;
+    top: 9px;
+    left: 12px;
+}
+
+.info {
+    text-decoration: none;
+}
+
+.Inf h5 {
+    color: black;
+    position: relative;
+    left: 695px;
+    bottom: 440px;
+}
+
+.Inf .box {
+    width: 588px;
+    height: 380px;
+    top: -430px;
+    left: 688px;
+    border: 1px solid #EDEDED;
+    background-color: #ffffffff;
+
+}
+
+.Inf p {
+    position: relative;
+    right: 115px;
+    font-size: 15px;
+    width: 660px;
+}
+
+.Inf p:hover {
+    color: black;
+}
+
+/* Add these styles to your Settings.css */
+
+/* Existing Styles */
+/* ... (existing styles from the previous code) ... */
+
+/* New styles for input boxes */
+
+
+.input-box-container {
+    position: relative;
+    top: 10px;
+    left: 20%;
+    width: 60%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.input-box {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 45%;
+    margin: 0 10px;
+}
+
+.input-box label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.input-box input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.input-box button {
+    background-color: #03A1A4;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.input-box button:hover {
+    background-color: #028c8a;
+}
+
+.display-box {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 45%;
+    margin: 0 10px;
+}
+
+.display-box p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.display-box button {
+    background-color: #03A1A4;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.display-box button:hover {
+    background-color: #028c8a;
+}
+
+/* ############################################################ */
+
+.box-info-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+
+}
+
+.name-prof {
+        display: flex;
+        border: 1px solid rgb(204, 201, 201);
+        gap: 1rem;
+        width: 200px;
+        height: 30px;
+        position: relative;
+        left: 57px;
+        bottom: 50px;
+}
+
+.name-prof p {
+    position: relative;
+    left: -37px;
+    top: 3px;
+}
+
+.save-butt {
+    border: .5px solid;
+    background: transparent;
+    border-radius: 20%;
+    position: relative;
+    top: 25px;
+    right: 5px;
+}

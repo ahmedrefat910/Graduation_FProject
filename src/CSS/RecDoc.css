@@ -1,0 +1,137 @@
+/* ################################################################## */
+
+.image h3 {
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+.img {
+    position: relative;
+    top: 25px;
+    left: 100px;
+
+}
+
+.img img {
+    cursor: pointer;
+}
+
+/* ################################################################## */
+
+
+/* ################################################################## */
+
+.image h3 {
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.img {
+    position: relative;
+    top: 20px;
+    padding-left: 25px;
+
+}
+
+.img img {
+    cursor: pointer;
+    padding: 10px;
+}
+
+/* ################################################################## */
+
+.Doctors {
+    position: relative;
+    left: 570px;
+    bottom: 520px;
+    height: 50px;
+}
+
+
+
+.doctor-details .btn.active {
+    color: #03A1A4;
+}
+
+.btn1 .about-button {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.btn1 .about-button:hover {
+    color: #03A1A4;
+}
+
+.btn1 p {
+    width: 40px;
+    background-color: rgb(218, 218, 218);
+}
+
+.btn2 .location-button {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 60px;
+    bottom: 43px;
+    cursor: pointer;
+}
+
+.btn2 .location-button:hover {
+    color: #03A1A4;
+}
+
+.btn2 p {
+    position: relative;
+    left: 60px;
+    bottom: 43px;
+    width: 50px;
+    background-color: rgb(218, 218, 218);
+}
+
+
+
+/* ################################################################## */
+
+.About {
+    position: relative;
+    bottom: 10px;
+}
+
+.About h5 {
+    position: relative;
+    bottom: 30px;
+}
+
+.About h6 {
+    position: relative;
+    bottom: 30px;
+}
+
+.About p {
+    position: relative;
+    bottom: 30px;
+}
+
+.chat-button {
+    background-color: #07beac;
+    border: none;
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+    border-radius: 5px;
+    position: relative;
+    left: 15%;
+    top: -20px;
+    width: 320px;
+    height: 37px;
+}
+
+/* ################################################################## */
+
+.Location {
+    position: relative;
+    bottom: 30px;
+}
+
+/* ################################################################## */

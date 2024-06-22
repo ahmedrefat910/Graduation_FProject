@@ -1,0 +1,45 @@
+/* Start Choose */
+.text-choose {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.text-choose p {
+  color: rgb(161, 158, 158);
+}
+
+.T-choose {
+  color: #07beac;
+  padding-bottom: 2px;
+}
+
+.doc-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 150px;
+}
+
+.link-choose {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.link-choose .btn {
+  margin-top: 40px;
+  background-color: #07beac;
+  border: none;
+  color: white;
+  padding: 4px 21px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 45px;
+}
+
+/* End Choose */

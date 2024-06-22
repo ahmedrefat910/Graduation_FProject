@@ -1,0 +1,80 @@
+.home p {
+    text-align: center;
+    color: #03A1A4;
+    padding: 65px;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+.rec {
+    text-decoration: none;
+    color: #03A1A4;
+}
+
+.recommendation h3 {
+    padding: 20px 90px;
+    padding-top: 40px;
+}
+
+.recommendation h4 {
+    padding: 3% 90px;
+    padding-top: 40px;
+}
+
+.images {
+    padding-left: 150px;
+    padding-top: 15px;
+}
+
+.item {
+    width: 100%;
+}
+
+.item-img {
+    padding-right: 25px;
+    cursor: pointer;
+}
+
+/* ######################## */
+
+.container .box {
+    width: 1000px;
+    height: 280px;
+    position: relative;
+    top: -22px;
+    left: 45px;
+    margin-bottom: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #03A1A4;
+}
+
+.container .box h3 {
+    position: relative;
+    bottom: 70px;
+    right: 108px;
+    color: #03A1A4;
+}
+
+.container .box p {
+    width: 77%;
+    position: relative;
+    bottom: 88px;
+    color: black;
+}
+
+.container .box img {
+    position: relative;
+    bottom: 170%;
+    left: 71%;
+}
+
+.container .box .Tumor-img {
+    position: relative;
+    left: 82%;
+}
+
+/* ################################################### */
